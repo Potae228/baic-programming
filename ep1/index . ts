@@ -4,10 +4,9 @@ y = 20
 let อยากกลับบ้าน: boolean = false
 console.log(firtname)
 console.tog(y)
-console.tog(ิอยากกลับบ้าน)
+console.tog(iWanttoGoHome)
 const a : number ='152'
 const b :number ="153"
 console.log (a==b)
 console.log (a>b)
 console.log (a<=b)
-gตั
