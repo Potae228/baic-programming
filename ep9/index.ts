@@ -5418,14 +5418,14 @@ const football =
     },
     favoriteTeam: function(){
         return this.league.standings.filter(function(element, index){
-             return element.team.name === "Manchester United"
+             return element.team.name === "Manchester City"
     })
 
     },
 
     goalsdiff: function(){
         return this.league.standings.filter(function(element, index){
-             return element.team.name === "Manchester United"            
+             return element.team.name === "Manchester City"            
     })[0].goalsDiff
 
     },
